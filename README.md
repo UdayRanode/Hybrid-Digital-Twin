@@ -215,15 +215,7 @@ python aspen_com.py
 
 ---
 
-## Future Work
 
-- Real-time process monitoring
-- Online surrogate model updating
-- Digital twin dashboard
-- Optimization using reinforcement learning
-- Plant-wide deployment
-
----
 
 ## Project Team
 
